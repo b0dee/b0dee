@@ -4,6 +4,7 @@
 - Python
 - C
 - SQL
+- Shell Scripting
 - A little bit of everything else...
 
 🌱 I’m currently learning ...
