@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @b0dee
 
-👀 I’m interested in ...
+👀 I’m interested in 
+- C#
+- Angular
 - Python
 - C
 - SQL
