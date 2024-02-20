@@ -3,13 +3,14 @@
 👀 I’m interested in 
 - C#
 - Angular
+- NextJS
 - Python
 - C
 - SQL
 - Shell Scripting
-- A little bit of everything else...
+- And the rest...
 
 🌱 I’m currently learning ...
-- Everything, always
+- Everything. Always
 
 💞️ I’m always open to collaboration
